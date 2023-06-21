@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Five Books</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Invalid_mame">Please Enter Valid Name</string>
+    <string name="Invalid_password">Please Enter Valid Password</string>
+    <string name="Invalid_passwordd">Please Enter Valid Password</string>
+    <string name="Invalid_Email">Please Enter Valid Email</string>
+    <string name="sololearn"><a href="https://www.sololearn.com/home">Sololearn</a></string>
+    <string name="w3"><a href="https://www.w3schools.com/">W3schools</a></string>
+    <string name="stack"><a href="https://stackoverflow.com/">Stack Overflow</a></string>
+    <string name="pro"><a href="https://www.programiz.com/">Programiz</a></string>
+    <string name="git"><a href="https://github.com/">Github</a></string>
+</resources>

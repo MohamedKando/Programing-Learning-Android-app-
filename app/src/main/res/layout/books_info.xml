@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".booksinfo"
+    android:background="#201C1C">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Python"
+            android:textColor="@color/white"
+            android:textSize="36sp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="130dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1- Python Basics
+                 A Practical Introduction to Python by David Amos, Dan Bader, Joanna Jablonski, Fletcher Heisler.
+                 _________________
+
+
+                                                  2- Learning Python Learning Python, Fourth Edition by Mark Lutz.
+                                                  __________________
+                                                3- Python 3 for Absolute
+Beginners by Tim Hall and J-P Stacey.
+__________________
+                                  4- Python Data Science Handbook
+Essential Tools for Working with Data by Jake VanderPlas.
+ __________________
+             5- Python Programmin An Intro To Computer Science by John Zelle.
+             __________________
+"
+            android:fontFamily="serif"
+            android:layout_marginLeft="20dp"
+            android:textSize="30sp"
+            android:layout_marginTop="110dp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Java"
+            android:textColor="@color/white"
+            android:textSize="36sp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:layout_marginTop="1000dp"
+            android:layout_marginLeft="160dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1- Teach Yourself JAVA in 21 Days by Laura Lemay and Charles L.Perkins.
+                 _________________
+
+
+                                                  2- Java Programming Language Handbook by David H. Friedel, Jr.
+                                                  __________________
+                                                3- Head First Java
+ by Kathy Sierra and Bert Bates.
+         __________________
+                                  4- Java™ The Complete Reference
+by Herbert Schildt.
+              __________________
+             5- Data Structures and Algorithms in Java by Michael T. Goodrich and Roberto Tamassia.
+             __________________
+"
+            android:fontFamily="serif"
+            android:layout_marginLeft="20dp"
+            android:textSize="30sp"
+            android:layout_marginTop="1070dp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="C++"
+            android:textColor="@color/white"
+            android:textSize="36sp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:layout_marginTop="1850dp"
+            android:layout_marginLeft="165dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1- Effective Modern C++ by Scott Meyers.
+                 _________________
+
+
+                                                  2- A Tour of C++ by Bjarne Stroustrup.
+                                                  __________________
+                                                3- Effective                                C++ by Scott Meyers.
+       __________________
+                                  4- C++ Concurrency in Action
+by ANTHONY WILLIAMS.
+ __________________
+                   5- Object-Oriented Programming in                   C++ by Robert Lafore.
+             __________________
+"
+            android:fontFamily="serif"
+            android:layout_marginLeft="20dp"
+            android:textSize="30sp"
+            android:layout_marginTop="1920dp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHP"
+            android:textColor="@color/white"
+            android:textSize="36sp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:layout_marginTop="2560dp"
+            android:layout_marginLeft="160dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1- Programming PHP by Kevin Tatroe, Peter MacIntyre, and Rasmus Lerdorf.
+                 _________________
+
+
+                                                  2- PHP Cookbook by David Sklar and Adam Trachtenberg.
+                                                  __________________
+                                                3- Learning PHP, MySQL, JavaScript,CSS , HTML5
+ by Robin Nixon.
+         __________________
+                                  4- The Joy Of PHP
+by Alan_Forbes.
+              __________________
+             5- PHP Objects, Patterns,and Practice by Matt Zandstra.
+             __________________
+"
+            android:fontFamily="serif"
+            android:layout_marginLeft="20dp"
+            android:textSize="30sp"
+            android:layout_marginTop="2630dp"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
+</ScrollView>
